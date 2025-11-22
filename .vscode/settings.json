@@ -18,7 +18,6 @@
     "github.copilot.enable": { // disable copilot code suggestions in editor, we rather stick to autocomplete and use copilot chat for code snippets
         "*": false
     },
-    "workbench.secondarySideBar.defaultVisibility": "hidden", // hide secundary sidebar, meaning: start with copilot chat being hidden
 
     // hide (true) or unhide (false) .* directories and files in the editor
     // edit met [shift]+[control]+[p] preferences: open workspace settings (JSON)
