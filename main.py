@@ -4,6 +4,7 @@ import turtle
 skk = turtle.Turtle()
 
 for i in range(4):
+    exit(1)
     skk.forward(50)
     skk.right(90)
     
