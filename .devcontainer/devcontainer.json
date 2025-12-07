@@ -30,8 +30,10 @@
 	// "git config pull.rebase false", => needs to be configured before first pull or merge to prevent error
 	// "git config merge.ours.driver true", => configure git to use 'ours' merge strategy by default, this is not very git-like, but makes it easier voor studenten
 	// "git config --global merge.conflictStyle diff3" => show source between ours and theirs in merge conflicts
-	// install pygame && add settings for opening novnc terminal
-	"postCreateCommand": "git config pull.rebase false && git config merge.ours.driver true && git config --global merge.conflictStyle diff3 && pip3 install pygame && sudo sh -c 'cat << EOF > /usr/local/novnc/noVNC-1.6.0/index.html\n<!DOCTYPE html>\n<html><head><meta http-equiv=\"refresh\" content=\"0; url=/vnc.html?autoconnect=true&password=game&resize=scale\" /></head><body><p>In 0 seconds you will be redirected to /vnc.html?autoconnect=true&password=game&resize=scale</p></body></html>\nEOF'",
+	// install pygame-ce 
+	// install coderius-play
+	// add settings for opening novnc terminal
+	"postCreateCommand": "git config pull.rebase false && git config merge.ours.driver true && git config --global merge.conflictStyle diff3 && pip install pygame-ce && pip install coderius-play && sudo sh -c 'cat << EOF > /usr/local/novnc/noVNC-1.6.0/index.html\n<!DOCTYPE html>\n<html><head><meta http-equiv=\"refresh\" content=\"0; url=/vnc.html?autoconnect=true&password=game&resize=scale\" /></head><body><p>In 0 seconds you will be redirected to /vnc.html?autoconnect=true&password=game&resize=scale</p></body></html>\nEOF'",
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 	// Configure tool-specific properties.
