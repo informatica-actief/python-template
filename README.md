@@ -38,3 +38,17 @@ Klik met je muis op de GUI om het toetsenbord aan je game te koppelen.
 - Klik in de activity bar op het Source Control icoon.
 - Voer een beschrijving van de wijziging in
 - Druk op de groen knop "Commit & Sync"
+
+## Samenwerken in GitHub
+- Sla je wijzigingen op in GitHub met "Commit & Sync":
+    - Bestanden die door jouw maatje gewijzigd zijn worden van GitHub naar jouw Codespace gekopieerd
+    - Bestanden die jij hebt gewijzigd worden van jouw Codespace naar GitHub gekopieerd. 
+    - Als jij en je maatje in hetzelfde bestand wijzigingen hebben gedaan, dan wordt de laatste versie (jouw bestand) bewaard.
+- Wijzigingen van je maatje die jij hebt overschreven kun je terughalen:
+    - Klik in de activity bar op het Source Control icoon.
+    - Klik onder GRAPH op de wijziging van je maatje, de lijst met bestanden die je maatje veranderd heeft verschijnen
+    - Klik bij het bestand waarvan je wijzigingen wilt herstellen op het icoontje links van de M, het bestand opent (als je rode en groene regels ziet dan heb je op de naam van het bestand geklikt in plaats van het icoontje)
+    - Knip en plak de wijzigingen uit de versie van je maatje naar de versie van jou
+    - Sla je wijzigingen op in GitHub met "Commit & Sync"
+
+    
