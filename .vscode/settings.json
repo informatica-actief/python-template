@@ -10,7 +10,8 @@
     "git.autofetchPeriod": 60, // autofetch period 60 seconds
     "merge-conflict.autoNavigateNextConflict.enabled": true, // auto navigate to next merge conflict after resolving one, must be false to prevent ignoring merge ours strategy
 
-    "extensions.ignoreRecommendations": true, // disable prompt that asks to install recommended extensions
+    "extensions.ignoreRecommendations": true, // disable popup that asks to install recommended extensions
+    "terminal.integrated.sendKeybindingsToShell": true, // disable popup that appears when focus is on the integrated terminal and a shortcut key for vscode is pressed
 
     "python.createEnvironment.trigger": "off", // disable prompt that asks if a python environment needs to be created
 
