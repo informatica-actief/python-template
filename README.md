@@ -1,12 +1,12 @@
 # Python projecten
 Deze repository bevat een configuratie voor de Codespaces ontwikkelomgeving.
 
-Leerlingen kunnen hiermee de python projecten uit Informatica-Actief maken.
+Leerlingen kunnen hiermee de Python projecten uit Informatica-Actief maken.
 
 De configuratie ondersteunt:
 - Python met grafische user interface (in de browser via novnc)
-- Standaard met python meegeleverde packages zoals turtle, tkinter en sqlite
-- De packages pygame-ce en coderius-play
+- Standaard met Python meegeleverde packages zoals turtle, tkinter en sqlite
+- De packages PyGame-ce en Coderius-play
 
 ## Kopieer projectcode
 - De projectcode van je docent staat op een plek waar jij het niet kunt wijzigen.
