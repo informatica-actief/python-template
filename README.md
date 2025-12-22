@@ -8,10 +8,23 @@ De configuratie ondersteunt:
 - Standaard met python meegeleverde packages zoals turtle, tkinter en sqlite
 - De packages pygame-ce en coderius-play
 
+## Kopieer projectcode
+- De projectcode van je docent staat op een plek waar jij het niet kunt wijzigen.
+- Voordat je aan de slag gaat kopieer je de projectcode naar een plek waar je die kunt wijzigen.
+- Je docent vertelt hoe je dit kunt doen.
+
+Opties voor de docent:
+- Optie 1:
+  - Een leerling drukt op "Use template" en slaat de projectcode (repository) op onder zijn eigen account.
+  - Deze leerling voegt onder Settings van de repository de andere leerling en de docent toe als collaborator.
+- Optie 2:
+  - De docent gebruikt GitHub Classroom om een opdracht aan te maken en deelt een inschrijf-link met leerlingen.
+  - Leerlingen gebruiken de inschrijf-link naar GitHub Classroom om een repository voor hun groepje aan te maken.
+
 ## Start Codespaces
-- Login op GitHub
-- Kies de repository met jouw code
-- Klik op de groene knop "Code" en dan op de tab "Codespace" en dan op de groen knop "Create codespace on main".
+- Login op https://github.com/
+- Ga naar de pagina met jouw projectcode
+- Klik op de groene knop "Code" en dan op de tab "Codespace" en dan op de groen knop "Create codespace on main". Als je de knop "Create Codespace on main" niet ziet, dan heb je eerder een Codespace gemaakt. Deze zie je op de plek van de knop staan en daar kun je op klikken om hem opnieuw te starten.
 - Het starten van de Codespace kan enkele minuten duren. Als de Codespace gestart is, dan zie je de webversie van de editor VS Code (spreek uit als: vie-es-koot).
 
 ## Code uitvoeren
