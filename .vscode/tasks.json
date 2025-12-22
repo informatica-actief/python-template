@@ -1,12 +1,21 @@
 {
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Open Simple Browser",
+        "label": "Open Simple Browser",
       "type": "vscodeCommand",
       "command": "simpleBrowser.show",
-      "args": ["https://localhost:8000"],
-      "problemMatcher": []
+      "args": ["https://curly-winner-9j4jxrwq6qq27764-6080.app.github.dev/"],
+      "group": "test",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
     }
   ]
 }
