@@ -38,7 +38,7 @@
 		"vscode": {
 			"extensions": [
 				"ms-vsliveshare.vsliveshare", // add google-docs like typing in same file, click on live-share button in left icon pane
-				"./.vscode/vscode-command-task" // custom made extension to execute vscode commands
+	       		"${containerWorkspaceFolder}/.devcontainer/extensions/vscode-command-task.vsix" // custom made extension
 			]
 		}
 	}
