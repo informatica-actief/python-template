@@ -1,4 +1,4 @@
-# python projecten
+# Python projecten
 Deze repository bevat een configuratie voor de Codespaces ontwikkelomgeving.
 
 Leerlingen kunnen hiermee de python projecten uit Informatica-Actief maken.
