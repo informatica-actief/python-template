@@ -29,7 +29,7 @@ Opties voor de docent:
 
 ## Code uitvoeren
 Start het programma:
-- Type in de terminal `python main-turtle.py` of `python main-play.py` en druk dan op de toets `[Enter↵]`
+- Type in de terminal `python turtle.py` of `python play.py` en druk dan op de toets `[Enter↵]`
 
 Stop het programma:
 - Druk op de toetsen `[Ctrl]`+`[C]` en daarna `[Enter↵]`
@@ -38,11 +38,11 @@ Start het programma opnieuw:
 - Druk op de toets `[Up↑]` en daarna `[Enter↵]`
 
 ## GUI openen
-De GUI opent automatisch in Simple Browser nadat de game is gestart.
+De GUI opent automatisch in Simple Browser nadat je programma is gestart.
 
 Als de GUI niet automatisch opent:
 - Klik op ports, klik bij port 6080 (GUI) op "Open in Browser" (wereldbol) of "Preview in Editor" (rechts van wereldbol)<br>
-- Klik met je muis op de GUI om het toetsenbord aan je game te koppelen.
+- Klik met je muis op de GUI om het toetsenbord aan je programma te koppelen.
 
 ## Code aanpassen
 - Dubbelklik op een bestand dat eindigt op `.py`. Het bestand wordt geopend in de editor.

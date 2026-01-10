@@ -1,4 +1,4 @@
-# Python program to draw circle 
+# Python program to draw circle on GUI
 # using Corderius-Play
 
 import play

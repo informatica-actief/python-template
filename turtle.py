@@ -1,4 +1,4 @@
-# Python program to draw square 
+# Python program to draw square on GUI
 # using Turtle Programming
 
 import turtle 
