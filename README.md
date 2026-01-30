@@ -29,7 +29,7 @@ Opties voor de docent:
 
 ## Code uitvoeren
 Start het programma:
-- Type in de terminal `python turtle.py` of `python play.py` en druk dan op de toets `[Enter↵]`
+- Type in de terminal `python turtle-main.py` of `python play-main.py` en druk dan op de toets `[Enter↵]`
 
 Stop het programma:
 - Druk op de toetsen `[Ctrl]`+`[C]` en daarna `[Enter↵]`
